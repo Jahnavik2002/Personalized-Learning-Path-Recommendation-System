@@ -134,4 +134,3 @@ Advanced Analytics Dashboard: Provide detailed analytics for both users and educ
 Social Learning Integration: Allow users to connect and share resources, enhancing collaborative learning.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
